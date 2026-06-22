@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Oh My Netizen",
+  title: "Berita Harian",
   description: "Latest news and updates",
   other: {
     "google-adsense-account": "ca-pub-6011530152705995",
